@@ -231,7 +231,7 @@ h3 {
     width: 800%;
   }
   .carousel-item {
-    max-height: 80%;
+    max-height: 90%;
   }
 }
 @media (max-width: 950px) {
@@ -268,7 +268,7 @@ h3 {
     max-width: 300px;
   }
   .carousel-item {
-    max-height: 70%;
+    max-height: 80%;
   }
 }
 @media (max-width: 626px) {
@@ -300,7 +300,7 @@ h3 {
     width: 60%;
   }
   .carousel-item {
-    max-height: 60%;
+    max-height: 70%;
   }
 }
 @media (max-width: 500px) {
@@ -335,9 +335,6 @@ h3 {
   .el {
     padding: 20% 0;
     width: 60%;
-  }
-  .carousel-item {
-    max-height: 30%;
   }
   .btn {
     display: inline-block;
